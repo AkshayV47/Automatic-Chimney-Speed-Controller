@@ -100,5 +100,3 @@ Repeat Process
 The **Automatic Chimney Speed Controller** demonstrates how IoT and embedded systems can be used to automate everyday appliances for improved safety, efficiency, and user convenience. This project serves as a practical implementation of smart home automation using ESP technology.
 
 ---
-
-⭐ *If you find this project useful, consider giving it a star on GitHub!*
