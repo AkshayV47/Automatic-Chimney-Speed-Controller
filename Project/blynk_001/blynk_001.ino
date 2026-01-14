@@ -10,10 +10,9 @@
 #include <ESP8266WiFi.h>
 #include <MQ2_LPG.h>
 #include <DHT.h>
-// const char* ssid = "SOMESH";
-// const char* password ="123456789";
-const char* ssid = "OPPOReno8T5G";
-const char* password ="OPPO8TRENO";
+
+const char* ssid = "**************";
+const char* password ="*******";
 DHT dht(DHTPIN, DHTTYPE);
 void setup() {
   pinMode(A0, INPUT);
